@@ -33,9 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
-
----
+I believe that being consistent is more important than being naturally talented. Many people think that success mainly comes from having special skills or being very intelligent. I believe that someone who keeps learning, practises regularly, accepts mistakes, and continues even when progress is slow can achieve more than a talented person who does not put in consistent effort. For me, small improvements every day are more valuable than trying to become perfect immediately. I also believe that failure is not a sign that we should stop; it is feedback that helps us understand what to improve.
 
 # Assignment 2. What are the top 3 objective truths you discovered through experimentation and results?
 
