@@ -284,9 +284,9 @@ Examples:
 
 Answer:
 
-Add your answer here...
+Yes
 
----
+I wrote down the tasks, goals, responsibilities, ideas, worries, and pending work that were on my mind. This helped me clear my thoughts and understand what I needed to focus on instead of trying to remember everything at once.
 
 ## Step 2: Your 5-Month Routine + Focus Blocks
 
@@ -302,21 +302,29 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Monday: 60 minutes of DevOps learning and theory
+Tuesday: 60 minutes of hands-on practice
+Wednesday: 60 minutes of Linux, Git, and networking practice
+Thursday: 60 minutes of DevOps tools and project work
+Friday: Review what I learned during the week and complete pending tasks
+Saturday: 2 hours of DMI work, assignments, and practical projects
+Sunday: 1 hour weekly review and planning for the next week
 
----
+I will focus on consistency rather than trying to complete everything in one day. My goal is to make steady progress throughout the next five months.
 
 ### Focus Blocks
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Monday–Thursday: 7:00 PM – 8:00 PM
+Saturday: 10:00 AM – 12:00 PM
+Sunday: 6:00 PM – 7:00 PM for review and planning
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+6 sessions per week
 
----
+I will use these sessions for learning, practising, completing DMI assignments, building projects, and reviewing my progress
 
 ### Distraction Rules
 
@@ -327,10 +335,15 @@ Examples:
 * Environment setup
 
 #### My Distraction Rules
-
-Add your answer here...
-
----
+My Distraction Rules
+Keep my phone away from my study area during focus sessions.
+Turn off unnecessary notifications before starting DMI work.
+Avoid social media until the planned study session is completed.
+Use only the tabs and tools needed for the current task.
+Study in a clean and quiet environment.
+Work on one task at a time instead of switching between multiple tasks.
+Take a short break after completing a focused session.
+If I miss a session, I will reschedule it instead of giving up on the weekly plan.
 
 # Reflection – Week 1
 
