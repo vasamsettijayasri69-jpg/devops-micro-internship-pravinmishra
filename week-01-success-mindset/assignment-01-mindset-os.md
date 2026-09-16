@@ -248,19 +248,39 @@ List topics only. No need to share numbers.
 * Spending tracker
 
 ## My Metrics
+Assignment 6. What are the things you will measure regularly in your life and career?
+Rules
+List topics only. No need to share numbers.
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+Must Include
+Learning / skill
+Output / proof
+Health / energy
+Time / focus
+Money / finance (personal or business)
+Example
+Learning hours per week
+Deep work sessions per week
+Projects shipped / documented
+Steps / workouts
+Sleep hours
+Spending tracker
+My Metrics
+# Assignment 6. What are the things you will measure regularly in your life and career?
 
----
+## My Metrics
+
+* Learning hours per week
+* New skills learned and practised
+* DevOps concepts completed
+* Projects completed and documented
+* GitHub contributions and portfolio updates
+* DMI assignments completed
+* Deep work sessions per week
+* Sleep and daily energy levels
+* Exercise and physical activity
+* Personal spending and savings
+
 
 # Assignment 7. Brain Dump + 5-Month System Plan
 
