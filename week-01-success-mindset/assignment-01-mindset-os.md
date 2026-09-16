@@ -178,9 +178,7 @@ Improved communication, problem-solving, and collaboration skills
 
 Paste your link here:
 
-`Add your URL here`
-
----
+`https://lnkd.in/p/dv633tmm
 
 # Assignment 4. Have you ever cut corners (unethical / dishonest / shortcut behavior — not necessarily illegal)? If yes, how did it make you feel?
 
