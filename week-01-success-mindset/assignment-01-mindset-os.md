@@ -389,19 +389,19 @@ If I miss a session, I will reschedule it instead of giving up on the weekly pla
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I realized that consistency is one of my biggest strengths. I can make better progress when I focus on small, practical steps instead of trying to learn everything at once.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+I noticed that I sometimes try to do too many things at the same time. This can make me feel overwhelmed and reduce my focus. I need to improve my ability to prioritize one important task at a time.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+I will follow a focused DevOps learning session from 7:00 PM to 8:00 PM, Monday to Thursday, with my phone away and unnecessary notifications turned off. I will use this time for learning, practice, and completing DMI tasks.
 
 ### LinkedIn Post
+https://lnkd.in/p/dv633tmm
 
-Paste your LinkedIn post link here:
 
 `Add your URL here`
 
@@ -409,7 +409,7 @@ Paste your LinkedIn post link here:
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
+- LinkedIn Post URL: https://lnkd.in/p/dv633tmm  
 - Blog / Medium : **ADD LINK HERE**  
 
 ---
