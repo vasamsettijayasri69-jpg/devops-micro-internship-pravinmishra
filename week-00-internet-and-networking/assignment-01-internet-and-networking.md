@@ -144,9 +144,8 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+DNS (Domain Name System) is like the Internet’s phonebook. It converts easy-to-remember domain names such as **epicreads.com** into IP addresses that computers use to find the website. To connect **epicreads.com** to **52.172.142.222**, an **A (Address) record** should be used because an A record maps a domain name to an IPv4 address. After configuring the A record, users can enter **epicreads.com** instead of remembering the numerical IP address. The `:3000` part is the application’s port and is separate from the DNS mapping.
 
----
 
 # 💻 Task 5: Visual Studio Code Setup (Hands-on)
 
