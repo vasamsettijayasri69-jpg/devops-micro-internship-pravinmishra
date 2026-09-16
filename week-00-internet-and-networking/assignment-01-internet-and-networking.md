@@ -236,7 +236,7 @@ Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your p
 
 ## LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
+https://lnkd.in/p/dbrrd55q
 
 ```text
 Add your URL here...
@@ -256,21 +256,15 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
-
----
+I found understanding basic networking concepts, DNS, and using VS Code relatively easy. I was also able to understand application architecture and create simple two-tier and three-tier diagrams.
 
 ### What was difficult?
 
-Add your answer here...
-
----
+Understanding how packet switching, TCP/IP, and DNS work together was a little challenging at first. Creating the application architecture diagrams and understanding the difference between two-tier and three-tier architecture also required some practice.
 
 ### What will you improve next week?
 
-Add your answer here...
-
----
+Next week, I will focus on improving my practical DevOps skills and gaining more hands-on experience with tools and commands. I will also try to understand concepts more deeply by practicing them myself.
 
 ## 📌 About DMI & CloudAdvisory
 
