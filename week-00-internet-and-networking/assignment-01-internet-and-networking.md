@@ -25,7 +25,8 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
+![Task 1 Screenshot](screenshots/<img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/00b711d7-5d8d-46b7-945b-4fa850cbccd0" />
+)
 
 
 Replace `task-1-chatgpt.png` with your actual screenshot file name.
@@ -33,8 +34,9 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 ---
 
 ## What I Learned (2–3 lines)
+A protocol is a set of rules that helps computers communicate with each other properly.\
+ For example, just like people follow rules while talking, computers follow protocols to send and receive data.
 
-Add your answer here...
 
 ---
 
