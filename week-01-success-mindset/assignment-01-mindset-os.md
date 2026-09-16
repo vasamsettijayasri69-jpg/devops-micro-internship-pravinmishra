@@ -410,7 +410,7 @@ https://lnkd.in/p/dv633tmm
 ## 10. Proof of Work
 
 - LinkedIn Post URL: https://lnkd.in/p/dv633tmm  
-- Blog / Medium : **ADD LINK HERE**  
+- Blog / Medium : https://medium.com/@jayasrivasamsetti25/my-2-0-version-becoming-a-devops-engineer-through-consistency-9346ce38e8b5 
 
 ---
 
