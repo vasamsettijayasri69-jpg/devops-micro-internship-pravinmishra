@@ -43,9 +43,9 @@ Objective truths do not depend on opinions. They hold true regardless of how peo
 
 Write each truth in this format:
 
-**Truth:** (1 sentence)
+**Truth:** Consistent practice produces better results than trying to learn everything at once.
 
-**Evidence from my life:** (2–4 lines: what you tried + what happened)
+**Evidence from my life:** When I started learning technical concepts, I initially tried to understand many topics together. I found it difficult to remember everything and felt overwhelmed. Then I started focusing on one concept at a time and practising regularly. I noticed that I understood the topics better and could explain them more confidently.
 
 ---
 
@@ -53,37 +53,33 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Consistent effort produces better results than trying to do everything perfectly from the beginning.
 
 ### Evidence from my life
-
-Add your answer here...
-
----
+When I started learning new technical concepts, I initially tried to understand everything at once. It made the learning process difficult and overwhelming.
+When I started studying consistently in smaller steps and practising what I learned, I was able to understand concepts more clearly and make steady progress.
 
 ## Truth #2
 
 ### Truth
 
-Add your answer here...
+Learning by doing helps me understand technical concepts better than only reading about them.
 
 ### Evidence from my life
 
-Add your answer here...
-
----
+I noticed this while working with technical tools and concepts that were new to me. The first time I used them, I needed more time and made mistakes.
+After repeating the process and practising it several times, I became more comfortable and could complete the same tasks with less difficulty.
 
 ## Truth #3
 
 ### Truth
 
-Add your answer here...
+Mistakes provide useful information about what I need to improve.
 
 ### Evidence from my life
 
-Add your answer here...
-
----
+Whenever I made mistakes while learning or completing a task, I reviewed what went wrong instead of simply giving up.
+By identifying the reason for the mistake and trying again, I was able to avoid repeating the same problem and improve my understanding.
 
 # Assignment 3. What does your 2.0 version look like?
 
