@@ -8,7 +8,7 @@ Part of the DevOps Micro Internship (DMI) with Agentic AI
 
 ## Scenario
 
-You're new to DevOps and will frequently encounter technical questions. ChatGPT can be your learning companion.
+You're new to DevOps and will frequently encounter technical questions. ChatGPT can be your learning companion
 
 ## Your Task
 
